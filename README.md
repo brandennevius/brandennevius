@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me
+
+
+Hello! My name is Branden and I am a recent college graduate from Clark University. I got my BA in computer science with a minor in data science. Some of my interests include stock trading, algorithmic trading, data science and  .Right now I am currently working on building a website with a calculator which calculates the profit and losses for stock option trades. I am using this GitHub as a personal portfolio which is home to some of my programming projects. If you have an questions or would like to contact me you can email me at [mailto](mailto:brandennevius@gmail.com)
+
 
 <!--
 **brandennevius/brandennevius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
