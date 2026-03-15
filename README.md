@@ -1,6 +1,6 @@
 # Branden Nevius
 
-Software engineer focused on system architecture, automation, AI-enabled products, and workflow-heavy platforms.
+Software engineer and systems engineer focused on architecture, automation, AI-enabled products, and workflow-heavy platforms.
 
 ## Portfolio
 
@@ -9,6 +9,8 @@ Software engineer focused on system architecture, automation, AI-enabled product
 - GitHub: [@brandennevius](https://github.com/brandennevius)
 - LinkedIn: [brandennevius](https://www.linkedin.com/in/brandennevius/)
 - Email: [brandennevius@gmail.com](mailto:brandennevius@gmail.com)
+
+Current role: Systems Engineer at Saab
 
 ## Featured Projects
 
